@@ -1,4 +1,4 @@
-# TaskFlow - Collaborative Task Management System
+# Collaborative Task Management System
 
 TaskFlow is a modern, full-stack collaborative task management application built with React, Vite, Express, and Socket.IO. It empowers users to create, manage, and share tasks while providing real-time notifications and detailed analytics.
 
