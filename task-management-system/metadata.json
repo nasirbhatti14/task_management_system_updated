@@ -1,6 +1,0 @@
-{
-  "name": "Task Management System",
-  "description": "A full-stack Task Management System using React, Express, and SQLite.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
